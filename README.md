@@ -1,5 +1,5 @@
 # War-on-Attention-Resources
-Direct list of links to minimize modern tech's enshittification and attention black hole tactics.
+Direct list of links to minimize big tech's enshittification and attention black hole tactics.
 
 Brave Browser: https://brave.com/download/
 iOS Download: https://apps.apple.com/us/app/brave-browser-search-engine/id1052879175
